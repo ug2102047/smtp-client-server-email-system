@@ -1,0 +1,5 @@
+From: a@gmail.com
+To: b@gmail.com, c@gmail.com
+Subject: about SMTP
+
+SIMPLE MAIL TRANSFER PROTOCOL

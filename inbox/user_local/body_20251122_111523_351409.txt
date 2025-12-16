@@ -1,0 +1,5 @@
+From: tester@example.com
+To: user_local
+Subject: Automated test message
+
+Hello from automated test sender
