@@ -9,7 +9,7 @@ from email.parser import BytesParser
 from aiosmtpd.controller import Controller
 
 MAILBOX_DIR = "inbox"  # ensure this folder exists
-
+ 
 class SMTPHandler:
     async def handle_DATA(self, server, session, envelope):
         """Handle incoming DATA from a client (envelope.content is bytes)."""
