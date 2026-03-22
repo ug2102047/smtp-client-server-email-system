@@ -8,7 +8,7 @@ import os
 INBOX_DIR = "inbox"  # same as server
 
 class SMTPApp(tk.Tk):
-    def __init__(self):
+    def __init__(self): 
         super().__init__()
         self.title("SMTP Lab - GUI Client")
         self.geometry("800x600")
